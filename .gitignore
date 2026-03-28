@@ -2,7 +2,6 @@
 # --- Sensitive Configuration Files ---
 config/       # Database credentials (host, user, password)
 .env                  # Environment variables
-config/config.php     # Any other config with secrets
 
 # --- PHP Dependencies (if using Composer) ---
 /vendor/
