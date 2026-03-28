@@ -1,6 +1,6 @@
 
 # --- Sensitive Configuration Files ---
-config/db.php         # Database credentials (host, user, password)
+config/       # Database credentials (host, user, password)
 .env                  # Environment variables
 config/config.php     # Any other config with secrets
 
