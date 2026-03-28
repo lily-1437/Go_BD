@@ -1,4 +1,4 @@
-# Go BD: Your all in one travel assistance
+# Go BD: Your all time travel assistance
 
 **Go BD** is a cloud-based smart tourism management and real-time travel assistance system designed specifically for Bangladesh. The platform addresses a core problem faced by tourists today.
 

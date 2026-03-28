@@ -1,6 +1,6 @@
 
 # --- Sensitive Configuration Files ---
-config/       # Database credentials (host, user, password)
+Go_BD/config/db.php         # Database credentials (host, user, password)
 .env                  # Environment variables
 
 # --- PHP Dependencies (if using Composer) ---
